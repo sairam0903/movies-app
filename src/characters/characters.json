@@ -1,0 +1,10 @@
+[
+  { "name": "https://swapi.co/api/people/1/", "type": "link"},
+  { "name": "https://swapi.co/api/people/2/", "type": "link"},
+  { "name": "https://swapi.co/api/people/3/", "type": "link"},
+  { "name": "https://swapi.co/api/people/4/", "type": "link"},
+  { "name": "https://swapi.co/api/people/5/", "type": "link"},
+  { "name": "https://swapi.co/api/people/6/", "type": "link"},
+  { "name": "https://swapi.co/api/people/7/", "type": "link"},
+  { "name": "https://swapi.co/api/people/8/", "type": "link"}
+]
